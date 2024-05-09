@@ -21,12 +21,12 @@
 ## Mobile ScreenShot
 
 <div  align="center">
-  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test311.png?raw=true" width = "270" height = "480" alt="图片1" align=center style="padding: 10px;"/>
-  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test312.png?raw=true" width = "270" height = "480" alt="图片2" align=center style="padding: 10px;"/>
+  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test311.png?raw=true" width = "270" height = "480" alt="图片1" align=center style="padding-right: 10px;"/>
+  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test312.png?raw=true" width = "270" height = "480" alt="图片2" align=center style="padding-right: 10px;"/>
 </div>
 <div  align="center">
-  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test313.png?raw=true" width = "270" height = "480" alt="图片3" align=center style="padding: 10px;"/>
-  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test214.png?raw=true" width = "270" height = "480" alt="图片4" align=center style="padding: 10px;"/>
-  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test215.png?raw=true" width = "270" height = "480" alt="图片5" align=center style="padding: 10px;"/>
+  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test313.png?raw=true" width = "270" height = "480" alt="图片3" align=center style="padding-right: 10px;"/>
+  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test214.png?raw=true" width = "270" height = "480" alt="图片4" align=center style="padding-right: 10px;"/>
+  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test215.png?raw=true" width = "270" height = "480" alt="图片5" align=center style="padding-right: 10px;"/>
 </div>
 
