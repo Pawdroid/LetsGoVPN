@@ -26,8 +26,7 @@
 </div>
 <div  align="center">
   <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test313.png?raw=true" width = "270" height = "480" alt="图片3" align=center />
-  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test214.png?raw=true" width = "270" height = "480" alt="图片3" align=center />
+  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test214.png?raw=true" width = "270" height = "480" alt="图片4" align=center />
+  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test215.png?raw=true" width = "270" height = "480" alt="图片5" align=center />
 </div>
-<div  align="center">
-  <img src="https://github.com/Pawdroid/LetsGoVPN/blob/main/static/test215.png?raw=true" width = "270" height = "480" alt="图片3" align=center />
-</div>
+
